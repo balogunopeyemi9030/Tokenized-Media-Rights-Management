@@ -11,3 +11,5 @@ N
 tests/revenue-tracking.test.ts,a/c/ac73edcb18d8358b12920adedf8862a65d8b081f
 T
 $deployments/default.simnet-plan.yaml,6/9/69a1a25a878ebb83f71a85e268e7aeee4705af03
+S
+#contracts/creator-verification.clar,3/8/38180a1cf6bfe51346a8a554f4e023b4bc126f68
