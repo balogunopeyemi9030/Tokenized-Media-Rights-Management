@@ -13,3 +13,5 @@ T
 $deployments/default.simnet-plan.yaml,6/9/69a1a25a878ebb83f71a85e268e7aeee4705af03
 S
 #contracts/creator-verification.clar,3/8/38180a1cf6bfe51346a8a554f4e023b4bc126f68
+R
+"tests/creator-verification.test.ts,9/0/90ea8318653467b64518cce5f346e6cc3f8c60b6
